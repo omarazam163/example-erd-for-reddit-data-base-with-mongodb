@@ -1,0 +1,30 @@
+[
+  {
+    "_id": 1,
+    "user_id": 1,
+    "content": "Hello, this is my first post!",
+    "image_content": "image1.jpg",
+    "created_at": "2023-07-05T08:00:00Z"
+  },
+  {
+    "_id": 2,
+    "user_id": 3,
+    "content": "Beautiful sunset today!",
+    "image_content": "sunset.jpg",
+    "created_at": "2023-08-10T18:00:00Z"
+  },
+  {
+    "_id": 3,
+    "user_id": 4,
+    "content": "Starting a new project today!",
+    "image_content": "project.jpg",
+    "created_at": "2023-09-01T10:30:00Z"
+  },
+  {
+    "_id": 4,
+    "user_id": 5,
+    "content": "Building something cool!",
+    "image_content": "building.jpg",
+    "created_at": "2023-09-05T09:45:00Z"
+  }
+]

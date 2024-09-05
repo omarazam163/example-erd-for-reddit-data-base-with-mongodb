@@ -1,0 +1,32 @@
+[
+    {
+      "_id": 1,
+      "username": "omar_azzam",
+      "password": "pass123",
+      "age": 21
+    },
+    {
+      "_id": 2,
+      "username": "john_doe",
+      "password": "password123",
+      "age": 25
+    },
+    {
+      "_id": 3,
+      "username": "jane_smith",
+      "password": "smith789",
+      "age": 22
+    },
+    {
+      "_id": 4,
+      "username": "alice_wonder",
+      "password": "alicepass",
+      "age": 24
+    },
+    {
+      "_id": 5,
+      "username": "bob_builder",
+      "password": "bobsecure",
+      "age": 29
+    }
+]

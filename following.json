@@ -1,0 +1,27 @@
+[
+    {
+      "follower_id": 2,
+      "following_id": 1,
+      "date": "2023-07-01T10:00:00Z"
+    },
+    {
+      "follower_id": 1,
+      "following_id": 3,
+      "date": "2023-07-10T14:30:00Z"
+    },
+    {
+      "follower_id": 3,
+      "following_id": 4,
+      "date": "2023-08-15T11:00:00Z"
+    },
+    {
+      "follower_id": 4,
+      "following_id": 5,
+      "date": "2023-09-01T09:00:00Z"
+    },
+    {
+      "follower_id": 5,
+      "following_id": 2,
+      "date": "2023-09-05T12:00:00Z"
+    }
+]
